@@ -7,7 +7,7 @@ public class fib {
         int n=10;
         int f;
         for(int i=1; i<n;i++){
-            
+            System.out.println(n);
         }
 
     }
